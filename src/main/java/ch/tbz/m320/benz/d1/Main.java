@@ -1,4 +1,4 @@
-package ch.tbz.m320.d1;
+package ch.tbz.m320.benz.d1;
 
 public class Main {
     public static void main(String[] args) {
