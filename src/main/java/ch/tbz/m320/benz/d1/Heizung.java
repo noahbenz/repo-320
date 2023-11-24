@@ -9,6 +9,7 @@ public class Heizung {
     public Heizung(int initialTemperature, int increment) {
         this.temperature = initialTemperature;
         this.increment = increment;
+        this.max = 30;
     }
 
     public Heizung(int initialTemperature, int min, int max) {
