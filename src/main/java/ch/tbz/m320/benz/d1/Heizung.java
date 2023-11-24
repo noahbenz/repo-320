@@ -46,7 +46,7 @@ public class Heizung {
     }
 
     public void increaseTemperature() {
-        if (temperature + increment <= max) {
+        if (temperature + increment >= max) {
             temperature += increment;
         } else {
             System.out.println("Maximale Temperatur erreicht.");
