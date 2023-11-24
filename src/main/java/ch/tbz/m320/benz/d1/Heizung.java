@@ -9,6 +9,7 @@ public class Heizung {
     public Heizung(int initialTemperature, int increment) {
         this.temperature = initialTemperature;
         this.increment = increment;
+        this.max = 30;
     }
 
     public Heizung(int initialTemperature, int min, int max) {
@@ -46,7 +47,7 @@ public class Heizung {
     }
 
     public void increaseTemperature() {
-        if (temperature + increment >= max) {
+        if (temperature + increment <= max) {
             temperature += increment;
         } else {
             System.out.println("Maximale Temperatur erreicht.");
