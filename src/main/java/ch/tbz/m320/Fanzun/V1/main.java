@@ -12,9 +12,6 @@ public class main {
 
         medienListe.remove(1);
 
-        for (Medien medium : medienListe) {
-            System.out.println(medium.getClass().getSimpleName() + ": " + medium.getTitel() + " - " + medium.getPreis());
-        }
         medienListe.forEach(medium -> System.out.println(medium.getPreis()));
     }
 }
