@@ -1,5 +1,6 @@
 package ch.tbz.m320.Fanzun.V1;
 
+import ch.tbz.m320.fanzun.V1.Buch;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;

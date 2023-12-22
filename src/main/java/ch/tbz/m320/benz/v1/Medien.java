@@ -1,4 +1,4 @@
-package ch.tbz.m320.fanzun.V1;
+package ch.tbz.m320.benz.v1;
 
 public class Medien {
     private String titel;
