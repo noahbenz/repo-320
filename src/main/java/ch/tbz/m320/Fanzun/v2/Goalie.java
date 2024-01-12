@@ -1,4 +1,4 @@
-package ch.tbz.m320.benz.v2;
+package ch.tbz.m320.Fanzun.v2;
 
 public class Goalie extends Spieler {
     private double bodySize;

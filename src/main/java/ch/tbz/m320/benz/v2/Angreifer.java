@@ -13,6 +13,6 @@ public class Angreifer extends Spieler{
 
     @Override
     public void spielen() {
-        System.out.println(getName()+"ist im Angriff");
+        System.out.println(getName()+" ist im Angriff");
     }
 }
