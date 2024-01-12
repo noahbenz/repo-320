@@ -2,8 +2,14 @@ package ch.tbz.m320.Fanzun.v2;
 
 import java.util.Scanner;
 
+/**
+ * Hauptklasse des Programms, die Benutzeroberfläche für Mannschaftsverwaltung bereitstellt
+ */
 public class Main {
-
+    /**
+     * Hauptmethode des Programms, die den Ablauf der Mannschaftsverwaltung bereitstellt
+     * @param args
+     */
     public static void main(String[] args) {
         Mannschaft mannschaft = new Mannschaft();
         Scanner scanner = new Scanner(System.in);
