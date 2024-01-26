@@ -20,7 +20,12 @@ public class Verteidiger extends Spieler {
      * Sie gibt aus, dass der Verteidiger sein Tor verteidigt.
      */
     @Override
+<<<<<<< HEAD
     public void spielen() {
         System.out.println(getName() + " verteidigt sein Tor");
+=======
+    public void spielen(){
+        System.out.println( getName() +" verteidigt sein Tor");
+>>>>>>> ddd45b243cf2353cccffde8101c159d900018034
     }
 }

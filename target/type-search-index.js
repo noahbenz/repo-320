@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ch.tbz.m320.Fanzun.v2","l":"Angreifer"},{"p":"ch.tbz.m320.Fanzun.v2","l":"Goalie"},{"p":"ch.tbz.m320.Fanzun.v2","l":"Main"},{"p":"ch.tbz.m320.Fanzun.v2","l":"Mannschaft"},{"p":"ch.tbz.m320.Fanzun.v2","l":"Spieler"},{"p":"ch.tbz.m320.Fanzun.v2","l":"Verteidiger"}];updateSearchResults();

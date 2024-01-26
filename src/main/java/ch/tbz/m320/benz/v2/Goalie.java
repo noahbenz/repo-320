@@ -26,5 +26,5 @@ public class Goalie extends Spieler {
     @Override
     public void spielen() {
         System.out.println(getName() + " pariert den Ball");
-    }
+
 }
